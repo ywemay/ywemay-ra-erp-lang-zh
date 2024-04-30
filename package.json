@@ -1,0 +1,9 @@
+{
+  "name": "ywemay-ra-erp-lang-zh",
+  "version": "1.0.0",
+  "description": "YWEmay ERP React-Admin Chinese translations",
+  "main": "src/index.js",
+  "repository": "git@github.com:ywemay/ywemay-ra-erp-lang-zh.git",
+  "author": "Chibuc Dorin",
+  "license": "MIT"
+}

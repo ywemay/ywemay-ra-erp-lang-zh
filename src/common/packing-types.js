@@ -1,0 +1,15 @@
+export const packings = { types: {
+  none: '无内包装',
+  polybag: '聚乙烯袋',
+  blister: '适合挂墙',
+  cartons: '纸板或瓦楞纸箱',
+  bubble: '泡沫包装',
+  foam: '泡沫衬垫',
+  peanuts: '填充物',
+  paper_dev: '纸质分隔器',
+  cboard_dev: '纸板分隔器',
+  pillows: '充气包装',
+  shrink: '收缩膜',
+  combined: '多种类型',
+  other: '其他类型',
+}};
