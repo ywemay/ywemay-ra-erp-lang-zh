@@ -1,13 +1,15 @@
-export default  {
-  products: {
-    id: 'ID', 
-    product: '产品', 
-    products: '产品', 
-    sku: 'SKU',
-    published: '出版',
-    label: '标签', 
-    package: '包装',
-  },
+const products = {
+  id: 'ID', 
+  product: '产品', 
+  products: '产品', 
+  sku: 'SKU',
+  published: '出版',
+  label: '标签', 
+  package: '包装',
+}; 
+
+export default {
+  products,
   max: {
     unitPrice: '每单最高价格',
   },
